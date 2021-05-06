@@ -1,0 +1,194 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1MusicChannelHungary.hu" tvg-name="1Music Channel Hungary" tvg-country="HU" tvg-language="Hungarian" tvg-logo="" group-title="Music",1Music Channel Hungary
+http://1music.hu/1music.m3u8
+#EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",ATV
+https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="BalatonTV.hu" tvg-name="Balaton TV" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/xyG4O6F.jpg" group-title="",Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-id="Bonum TV-HU" tvg-name="Bonum TV-HU" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/dpGX5SH.png" group-title="Religious",Bonum TV
+https://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF:-1 tvg-id="Budakalasz.hu" tvg-name="Budakalasz" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/ftmeWq2.png" group-title="",Budakalasz
+https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CoolTVHD.hu" tvg-name="Cool TV HD" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",Cool TV HD
+https://stream.y5.hu/stream/stream_cool/hls0/stream.m3u8
+#EXTINF:-1 tvg-id="CoolTVHD.hu" tvg-name="Cool TV HD" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",Cool TV HD
+https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="ErdelyTV.hu" tvg-name="Erdely TV" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/xAmYapr.jpg" group-title="",Erdely TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="FEM3.hu" tvg-name="FEM3" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",FEM3
+https://streaming.mytvback.com/stream/Nc8b6c6tUH4gh3GdRR-zFw/1617462698/channel016/stream.m3u8
+#EXTINF:-1 tvg-id="FilmPlus.hu" tvg-name="Film+" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",Film+
+https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
+#EXTINF:-1 tvg-id="FilmPlus.hu" tvg-name="Film+" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",Film+
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="HTMusicChannel.hu" tvg-name="H!T Music Channel" tvg-country="HU" tvg-language="Hungarian" tvg-logo="" group-title="",H!T Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 tvg-id="HalomTV.hu" tvg-name="Halom TV" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Qykeedm.png" group-title="",Halom TV
+http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8
+#EXTINF:-1 tvg-id="Hatoscsatorna.hu" tvg-name="Hatoscsatorna" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/64ygAE5.png" group-title="",Hatoscsatorna
+rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream
+#EXTINF:-1 tvg-id="IzauraTV.hu" tvg-name="Izaura TV" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",Izaura TV
+https://streaming.mytvback.com/stream/1aMW5tqyOFpH3swBdowx9Q/1617462678/channel040/stream-br1872000.m3u8
+#EXTINF:-1 tvg-id="KomlosTV.hu" tvg-name="Komlós TV" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/uGrWyVN.png" group-title="",Komlós TV
+https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="LifeTV.hu" tvg-name="Life TV" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",Life TV
+https://streaming.mytvback.com/stream/2WVTzaaqRtQ3cZ02Qd7rPA/1617462690/channel043/stream-br572000.m3u8
+#EXTINF:-1 tvg-id="Loversenykozvetites.hu" tvg-name="Lóverseny közvetítés" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Q9MWqpE.png" group-title="",Lóverseny közvetítés
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="M3.hu" tvg-name="M3" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",M3
+https://stream9.nava.hu/m3_live_bdrm/_definst_/smil:m3_1080p_loop_nodrm.smil/chunklist_w72397576_b881072_slhun.m3u8?lb=b4bp7xeKAKovH1uDWU5XusWC%252FSZexs%252BJNLmxYvSb34kGup6SGRTTm5UkNNjfC62mmvYbuEqrt04E%250D%250AExer5ZNS%252FWN6JyMpY6GiuOU2osRulnM%252BgNsTWVD8z%252BLJt4imqAka%250D%250A&platform=web_embed&sessid=Z4gLTQezzXGgWvNkiypb5PkmR64U1aoH3lFII14l3Mp2dZ5OtLoKQQY7XOn943ns&type=m3u8
+#EXTINF:-1 tvg-id="PannonRTV.hu" tvg-name="Pannon RTV" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Dl9xtgo.png" group-title="",Pannon RTV
+https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
+#EXTINF:-1 tvg-id="RTLGold.hu" tvg-name="RTL Gold" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",RTL Gold
+https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
+#EXTINF:-1 tvg-id="RTLII.hu" tvg-name="RTL II" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",RTL II
+https://stream.y5.hu/stream/stream_rtl2/hls0/stream.m3u8
+#EXTINF:-1 tvg-id="RTLII.hu" tvg-name="RTL II" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",RTL II
+https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-name="RTL Klub" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",RTL Klub
+https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-name="RTL Klub" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",RTL Klub
+https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="RTLPlus.hu" tvg-name="RTL+" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",RTL+
+https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
+#EXTINF:-1 tvg-id="SorozatPlus.hu" tvg-name="Sorozat+" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",Sorozat+
+https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
+#EXTINF:-1 tvg-id="TV7Bekescsaba.hu" tvg-name="TV7 Bekescsaba" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/iTUoC1v.png" group-title="",TV7 Bekescsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 tvg-id="VTVFuzesabony.hu" tvg-name="VTV Füzesabony" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/JCHEuWb.jpg" group-title="",VTV Füzesabony
+https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
+#EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-name="Ózdi Városi TV" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/xiSeTRL.jpg" group-title="",Ózdi Városi TV
+https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",1HD (Music)
+http://spb1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1Mus" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Music",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",1Music Channel Hungary
+http://www.1music.hu/1music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Apostol TV
+http://live.apostoltv.hu/online/smil:gazdagret.smil/chunklist_b1992000_slhun.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ovtI4G4.png" group-title="",ATV
+http://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Hegyvidek Tv Budapest
+http://tv.hegyvidek.hu/stream_mpeg.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",DTV
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Kecskemeti TV
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="",MUSIC +
+http://s02.diazol.hu:10192/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Tisza TV
+http://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Fix HD
+http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",FIX TV HD
+https://fixhd.tv:8082/fix/hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ISM
+http://fixhd.tv:8081/fix/hd.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="htv1.hr" tvg-name="HTV1" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="",HRT 1 (720p) [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:-1 tvg-id="htv1.hr" tvg-name="HTV1" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="",HRT 1 (720p) [NO KODI]
+http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:-1 tvg-id="htv2.hr" tvg-name="HTV2" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="",HRT 2 (720p) [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="htv2.hr" tvg-name="HTV2" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="",HRT 2 (720p) [NO KODI]
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="htv3.hr" tvg-name="HTV3" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="",HRT 3 (720p) [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1 tvg-id="htv4.hr" tvg-name="HTV4" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="",HRT 4 (720p) [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:-1 tvg-id="htv4.hr" tvg-name="HTV4" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="",HRT 4 (528p) [NO KODI]
+http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:-1 tvg-id="MAXtvPromoKanal.hr" tvg-name="MAXtv Promo Kanal" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="",MAXtv Promo Kanal (576p) [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 tvg-id="MAXtvPromoKanal.hr" tvg-name="MAXtv Promo Kanal" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="",MAXtv Promo Kanal (576p) [NO KODI]
+http://195.29.70.84/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 tvg-id="NewsBar.hr" tvg-name="NewsBar" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="",NewsBar (528p) [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226407/index.m3u8
+#EXTINF:-1 tvg-id="NewsBar.hr" tvg-name="NewsBar" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="",NewsBar (528p) [NO KODI]
+http://195.29.70.89/PLTV/88888888/224/3221226407/index.m3u8
+#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr" tvg-name="Radio Televizija Banovina" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/7q3g8AS.png" group-title="",Radio Televizija Banovina
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1 tvg-id="rtl.hr" tvg-name="RTL" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="",RTL (528p) [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
+
+
+#EXTINF:-1 tvg-id="kurir.rs" tvg-name="Kurir TV" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/oUwwB9s.png" group-title="",Kurir TV (720p)
+https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
+#EXTINF:-1 tvg-id="kurir.rs" tvg-name="Kurir TV" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/oUwwB9s.png" group-title="",Kurir TV (720p)
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+#EXTINF:-1 tvg-id="kurir.rs" tvg-name="Kurir TV" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/oUwwB9s.png" group-title="",Kurir TV (360p)
+https://kurir-tv.haste-cdn.net/providus/live2805_lq/index.m3u8
+#EXTINF:-1 tvg-id="MuzzikCafeClubSerbia.rs" tvg-name="Muzzik Cafe&Club Serbia" tvg-country="RS" tvg-language="" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Music",Muzzik Cafe&Club Serbia (720p)
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzzikHipHopSerbia.rs" tvg-name="Muzzik HipHop Serbia" tvg-country="RS" tvg-language="" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Music",Muzzik HipHop Serbia (720p)
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzzikJekaSerbia.rs" tvg-name="Muzzik Jeka Serbia" tvg-country="RS" tvg-language="" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Music",Muzzik Jeka Serbia (720p)
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzzikMediteraneoSerbia.rs" tvg-name="Muzzik Mediteraneo Serbia" tvg-country="RS" tvg-language="" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Music",Muzzik Mediteraneo Serbia (720p)
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzzikOKKSerbia.rs" tvg-name="Muzzik OKK Serbia" tvg-country="RS" tvg-language="" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Music",Muzzik OKK Serbia (720p)
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzzikReplaySerbia.rs" tvg-name="Muzzik Replay Serbia" tvg-country="RS" tvg-language="" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Music",Muzzik Replay Serbia (720p)
+https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzzikRockRollSerbia.rs" tvg-name="Muzzik Rock&Roll Serbia" tvg-country="RS" tvg-language="" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Music",Muzzik Rock&Roll Serbia (720p)
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzzikSaculatacSerbia.rs" tvg-name="Muzzik Saculatac Serbia" tvg-country="RS" tvg-language="" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Music",Muzzik Saculatac Serbia (720p)
+https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzzikTVSerbia.rs" tvg-name="Muzzik TV Serbia" tvg-country="RS" tvg-language="" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Music",Muzzik TV Serbia (720p)
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzzikWorldwideSerbia.rs" tvg-name="Muzzik Worldwide Serbia" tvg-country="RS" tvg-language="" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Music",Muzzik Worldwide Serbia (720p)
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-id="redportal.rs" tvg-name="Red TV" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/F2Qv4Kt.png" group-title="",Red TV (720p)
+https://live.rednet.rs/providus/redtv_multi.m3u8
+#EXTINF:-1 tvg-id="redportal.rs" tvg-name="Red TV" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/F2Qv4Kt.png" group-title="",Red TV (720p)
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:-1 tvg-id="rtv.rs" tvg-name="Radio-televizija Vojvodine 1" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://static.rtv.rs/assets/repository/2017/img/header/logo-rtv_sr_ci.png" group-title="",RTV 1
+rtsp://212.200.255.151/rtv1
+#EXTINF:-1 tvg-id="rtv.rs" tvg-name="Radio-televizija Vojvodine 2" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://static.rtv.rs/assets/repository/2017/img/header/logo-rtv_sr_ci.png" group-title="",RTV 2
+rtsp://212.200.255.151/rtv2
+#EXTINF:-1 tvg-id="http://rtvas.rs/" tvg-name="RTV AS" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/wcXNcP6.png" group-title="",RTV AS (576p)
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 tvg-id="http://rtvas.rs/" tvg-name="RTV AS" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/wcXNcP6.png" group-title="",RTV AS (576p)
+https://srv1.adriatelekom.com/TVAS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="rtvcityub.rs" tvg-name="RTV City Ub" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/Sz4G9ns.png" group-title="",RTV City Ub (576p)
+http://167.172.39.13/hls/tvcityub.m3u8
+#EXTINF:-1 tvg-id="rtvnp.rs" tvg-name="RTV Novi Pazar" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/eNspJAS.png" group-title="",RTV Novi Pazar (576p)
+https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1 tvg-id="belami.rs" tvg-name="Belle Amie" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/UAlVp6G.jpg" group-title="",TV Belle Amie (720p)
+http://92.60.238.10:1935/live/belleamie/chunklist_w1811501290.m3u8
+#EXTINF:-1 tvg-id="belami.rs" tvg-name="Belle Amie" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/UAlVp6G.jpg" group-title="",TV Belle Amie (720p)
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga Plus" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" group-title="Music",TV Duga Plus (480p)
+http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1097511114.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga Plus" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" group-title="Music",TV Duga Plus (480p)
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Hram-EXYU" tvg-name="TV Hram-EXYU" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/Msxeu2S.png" group-title="",TV Hram (576p)
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-id="TV Hram-EXYU" tvg-name="TV Hram-EXYU" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/Msxeu2S.png" group-title="",TV Hram (576p)
+https://vod1.laki.eu/live/hram/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pikanal.rs" tvg-name="TV Pi Kanal" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/0kTq4Rj.jpg" group-title="",TV Pi Canal Pirot (576p)
+http://stream.pikanal.rs/pikanal/pgm.m3u8?v=1617785340
+
+
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4" tvg-country="UK" tvg-language="" tvg-logo="https://pbs.twimg.com/media/DoF9YY7XsAAGIrv.jpg" group-title="",Film 4
+http://photocall.tv/lF4r/ftv.m3u8?ch=film4
+#EXTINF:-1 tvg-id="MoviesCentral.uk" tvg-name="Movies Central" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="",Movies Central
+https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PeopleareAwesome.uk" tvg-name="People are Awesome" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="",People are Awesome
+https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamicsSTIRR.us" tvg-name="Comedy Dynamics (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/90195c82-4090-472d-9039-09be4e9c472f-small3x1_STIRR_Logo_0320_ComedyDynamics_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="",Comedy Dynamics (STIRR)
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+#EXTINF:-1 tvg-id="DryBarComedy.us" tvg-name="Dry Bar Comedy" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/l61qxIE.jpg" group-title="",Dry Bar Comedy
+https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
+#EXTINF:-1 tvg-id="DryBarComedyTV.us" tvg-name="Dry Bar Comedy TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5F3CgdU.png" group-title="Comedy",Dry Bar Comedy TV (720p)
+https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
+#EXTINF:-1 tvg-id="DrybarComedy.us" tvg-name="Drybar Comedy" tvg-country="US" tvg-language="" tvg-logo="" group-title="",Drybar Comedy
+https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 tvg-id="DryBarComedy.us" tvg-name="DryBar Comedy" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nUXwP5M.png" group-title="",DryBar Comedy
+https://drybar-drybarcomedy-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LegoChannel.us" tvg-name="Lego Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="",Lego Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
